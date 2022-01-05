@@ -6,9 +6,7 @@ class Multi implements Runnable {
 	@Override
 	public void run() {
 		System.out.println("Thread is running...! ");
-		
 	}
-	
 }
 
 public class ImplimentingRunnableInterfaceExample {
