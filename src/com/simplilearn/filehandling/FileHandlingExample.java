@@ -32,6 +32,8 @@ public class FileHandlingExample {
 		
 		//
 		
+		
+		
 		ArrayList<String> lines = new ArrayList<>();
 		lines.add("1st line");
 		lines.add("2nd line");
